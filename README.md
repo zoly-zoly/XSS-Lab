@@ -35,7 +35,7 @@ Ensure you have [PHP](https://www.php.net/) installed on your system.
 
 ```bash
 # 1. Clone the repository (or navigate to the folder)
-git clone https://github.com/YOUR_USERNAME/xss-lab.git
+git clone https://github.com/zoly-zoly/XSS-Lab.git
 cd xss-lab
 
 # 2. Start the local server
